@@ -113,3 +113,7 @@ main > section#tribute-info > p::first-letter {
 footer {
   padding: 5vh 5vw;
 }
+
+a {
+  align-self: start;
+}
